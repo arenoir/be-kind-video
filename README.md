@@ -1,1 +1,0 @@
-# Be Kind Video
