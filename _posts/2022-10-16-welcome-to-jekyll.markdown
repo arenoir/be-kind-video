@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Be Kind Video Opens November 2022!"
 date:   2022-10-16 09:38:08 -0700
 categories: jekyll update
 ---
