@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Tues-Thurs 11AM-8PM Fri-Sun 12PM-8PM CLOSED Mondays
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @bekindvideo
+twitter_username: bekindvideo
 github_username:  bekindvideo
 
 # Build settings
