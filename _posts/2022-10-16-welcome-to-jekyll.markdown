@@ -4,9 +4,9 @@ title:  "Be Kind Video Opens November 2022!"
 date:   2022-10-16 09:38:08 -0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+We are set to open Saturday November 5, 2022!
 
-Jekyll requires blog post files to be named according to the following format:
+3601 1/2 Magnolia Blvd, Burbank Ca 91505
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
