@@ -23,6 +23,7 @@ email: bekindvideoburbank@gmailcom
 description: >- # this means to ignore newlines until "baseurl:"
  3601 1/2 Magnolia Blvd Burbank Ca 91505
  Grand Opening November 5, 2022
+ 
  Tues-Thurs 11AM-7PM Fri-Sun 12PM-8PM CLOSED Mondays
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
