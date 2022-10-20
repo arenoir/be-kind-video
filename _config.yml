@@ -30,7 +30,7 @@ twitter_username: bekindvideo
 github_username:  bekindvideo
 
 # Build settings
-theme: tactile
+theme: merlot
 plugins:
   - jekyll-feed
 
