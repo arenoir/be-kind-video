@@ -1,34 +1,41 @@
 ---
+# this ensures Jekyll reads the file to be transformed into CSS later
 ---
-@import "bootstrap/bootstrap-utilities";
 
-$theme-colors: (
-  "primary":    $primary,
-  "secondary":  $secondary,
-  "success":    $success,
-  "info":       $info,
-  "warning":    $warning,
-  "danger":     $danger,
-  "light":      $light,
-  "dark":       $dark,
-  "gray":       $gray-600,
-  "blue":       $blue,
-  "indigo":     $indigo,
-  "purple":     $purple,
-  "red":        $red,
-  "orange":     $orange,
-  "yellow":     $yellow,
-  "green":      $green,
-  "teal":       $teal,
-  "cyan":       $cyan
-);
+// Colors
+$primary: #0369A6;
+$secondary: #0098FA;
+$black: #2f2f41;
+$white: #ffffff;
+$white-offset: #F3FAFF;
+$steel: #3D4856;
 
-$container-max-widths: (
-  sm: 540px,
-  md: 720px,
-  lg: 960px
-);
+// Links
+$link-color: $primary;
+$link-decoration: none;
+$link-hover-color: lighten($primary, 10%);
+$link-hover-decoration: underline;
 
-@import "custom-variables";
-@import "bootstrap/bootstrap";
-@import "custom-styles";
+// Fonts
+$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
+$font-family-heading: 'Playfair Display', serif, -apple-system;
+
+// Footer
+$footer-background-color: #fff;
+$footer-text-color: $steel;
+$sub-footer-background-color: transparent;
+$sub-footer-text-color: $steel;
+
+// Bootstrap
+@import 'bootstrap/bootstrap'; // Uncomment this line to import the entire Bootstrap library
+
+
+body {
+  font-size: 16px;
+  line-height: 1.2;
+  font-family: $font-family-base;
+  @include media-breakpoint-up(md) {
+    font-size: 16px;
+    line-height: 1.3;
+  }
+}
