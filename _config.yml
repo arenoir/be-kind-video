@@ -36,6 +36,10 @@ excerpts:
   # https://jekyllrb.com/docs/posts/#post-excerpts
   auto_truncate: true
 
+sass:
+  sass_dir: _sass
+  style: compressed # expanded
+
 # Theme configuration
 bootstrap:
   # Theme date format
