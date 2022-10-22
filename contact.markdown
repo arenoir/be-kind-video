@@ -4,4 +4,10 @@ title: Contact Us
 permalink: /contact/
 ---
 
-Content here
+Instagram www.instagram.com/bekindvideo
+
+Facebook  www.facebook.com/bekindvideo
+
+Twitter   www.twitter.com/bekindvideo
+
+Email     bekindvideoburbank@gmail.com
