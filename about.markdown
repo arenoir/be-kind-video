@@ -11,6 +11,6 @@ We stock VHS, DVDs, Blu-Rays, and 4K Blu-Rays.
 
 Specializing in rare, cult, hard to find movies only on home video.
 
-Contact bekindvideo@gmail.com
+Contact bekindvideoburbank@gmail.com
 
 
