@@ -4,7 +4,7 @@ title: Calendar
 permalink: /calendar/
 ---
 
-Opening Saturday November 5, 2022.
+CLOSED Wednesday November 23 - Friday November 25 2022 for Thanksgiving!
 
 Regular Hours:
 
