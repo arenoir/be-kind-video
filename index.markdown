@@ -10,4 +10,4 @@ We are a throwback Video Store, with a modern twist.
 
 Stocking VHS, DVDs, Blu-Rays, and 4K Blu-Ray Movies for Rent, and Sale.
 
-Opening November 5, 2022
+CLOSED Wednesday November 23, Thursday November 24, Friday November 25 2022. 
