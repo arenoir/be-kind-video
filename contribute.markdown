@@ -6,7 +6,7 @@ permalink: /contribute/
 
 Got extra VHS, DVDs, Blu-Rays you want to donate? 
 
-Posters, Move Programs, Lobby Cards, Movie Stills, Movie Merchandise gumming up the works?
+Posters, Movie Programs, Lobby Cards, Movie Stills, Movie Merchandise gumming up the works?
 
 Tired of all that extra money in your bank account?
 
