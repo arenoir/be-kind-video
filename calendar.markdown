@@ -4,7 +4,7 @@ title: Calendar
 permalink: /calendar/
 ---
 
-CLOSED Wednesday November 23 - Friday November 25 2022 for Thanksgiving!
+CLOSED Friday December 23 - Monday Dec 26 2022 for Christmas!
 
 Regular Hours:
 
