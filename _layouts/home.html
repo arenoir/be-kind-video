@@ -1,12 +1,19 @@
 ---
 layout: default
 ---
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading py-3">{{ page.title }}</h1>
-  {%- endif -%}
+<div class="container">
+  <div class="home">
 
-  {{ content }}
+    {%- if page.title -%}
+      <h1 class="page-heading py-3">{{ page.title }}</h1>
+    {%- endif -%}
 
-
+    <div class="content">
+      <div class="container py-4">
+        <div class="row align-items-start">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+  </div>
 </div>

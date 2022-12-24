@@ -3,22 +3,11 @@
   <div class="container py-3">
     <div class="row">
       <div class="col">
-        {%- if site.author %}
+        {%- if site.email %}
         <ul class="contact-list list-unstyled">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
         </ul>
         {%- endif %}
-        <p class="feed-subscribe">
-          <a class="btn btn-orange text-white" href="{{ 'feed.xml' | relative_url }}">
-            <i class="bi bi-rss-fill"></i>
-            <span>Subscribe</span>
-          </a>
-        </p>
       </div>
       <div class="col">
         <p>{{ site.description | escape }}</p>
