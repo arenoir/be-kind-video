@@ -1,0 +1,7 @@
+<dl class="row">
+  {% for day in site.data.hours.days %}
+  <dt class="col-sm-3">{{day.name}}</dt>
+  <dd class="col-sm-9">{{day.description}}</dd>
+  {% endfor %}
+  <small class="my-2 text-danger">{{site.data.hours.note}}</small>
+</dl>

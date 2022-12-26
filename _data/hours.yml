@@ -1,0 +1,18 @@
+---
+heading: Hours
+days:
+  - name: Monday
+    description: 'Closed'
+  - name: Tuesday
+    description: '11:00 AM - 7:00 PM'
+  - name: Wednesday
+    description: '11:00 AM - 7:00 PM'
+  - name: Thursday
+    description: '11:00 AM - 7:00 PM'
+  - name: Friday
+    description: '11:00 AM - 8:00 PM'
+  - name: Saturday
+    description: '11:00 AM - 8:00 PM'
+  - name: Sunday
+    description: '12:00 PM - 7:00 PM'
+note: CLOSED Friday December 23 - Tuesday Dec 27 2022 for Christmas!

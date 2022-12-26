@@ -2,23 +2,31 @@
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
   <div class="container py-3">
     <div class="row">
-      <div class="col">
-        {%- if site.email %}
+      <div class="col-12 col-md-6">
         <ul class="contact-list list-unstyled">
-          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>
+            {%- include address.html -%}
+          </li>
+          {%- if site.phone %}
+            <li class="mb-3">
+              <a href="tel:{{ site.phone }}" >
+                {{ site.phone }}
+              </a>
+            </li>
+          {%- endif %}
+          {%- if site.email %}
+            <li class="mb-3"><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {%- endif %}
+          {%- if site.bootstrap.social_links -%}
+            <li>
+              {%- include social.html -%}
+            </li>
+          {%- endif -%}
         </ul>
-        {%- endif %}
       </div>
-      <div class="col">
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
-    {%- if site.bootstrap.social_links -%}
-    <div class="row py-3">
-      <div class="col">
-        {%- include social.html -%}
+      <div class="col-12 col-md-6">
+        {%- include hours.html -%}
       </div>
     </div>
-    {%- endif -%}
   </div>
 </footer>
