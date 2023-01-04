@@ -12,4 +12,3 @@ Stocking VHS, DVDs, Blu-Rays, and 4K Blu-Ray Movies for Rent, and Sale.
 
 New titles added daily!
 
-Open New Year's Eve, and New Year's Day (12/31/22, 1/1/23)
