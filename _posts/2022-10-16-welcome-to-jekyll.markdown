@@ -1,24 +1,14 @@
 ---
 layout: post
-title:  "Be Kind Video Opens November 5th 2022!"
-date:   2022-10-16 09:38:08 -0700
+title:  "Be Kind Video Presents Saturday Morning Cartoons!"
+date:   2021-1-16 13:21:08 -0700
 categories: jekyll update
 ---
-We are set to open Saturday November 5, 2022!
+Saturday February 11th 2023 from 9am-11am!
 
-3601 1/2 Magnolia Blvd, Burbank Ca 91505
+Come enjoy Saturday Morning Cartoons, and All You Can Eat Cereal!!
 
-Across from Porto's Bakery, near the corner of Magnolia Blvd, and Hollywood Way in Burbank.
+Photo ops, and Raffle Prizes, too!
 
-Any inquiries, please email bekindvideoburbank@gmail.com
-
-DVDs, Blu-Rays, 4K Blu-Rays for Rent and Sale.
-
-VHS for sale, too!
-
-Come take a giant leap to the heyday of Video Stores!
-
-
-
-
+Tickets - https://www.eventbrite.com/e/saturday-morning-cartoons-february-tickets-516275843947
 
