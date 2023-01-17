@@ -1,6 +1,6 @@
 ---
 layout: home
-hero_image: assets/images/dji_mimo_20221229_190336_581_1672369458361_pano 2.jpg
+hero_image: assets/images/BeKindLaser.png
 ---
 
 
@@ -18,3 +18,8 @@ Late fees - $1.25/day per Movie.
 
 New titles added daily!
 
+
+---
+layout: home
+hero_image: assets/images/dji_mimo_20221229_190336_581_1672369458361_pano 2.jpg
+---
