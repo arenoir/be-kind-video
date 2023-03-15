@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "Be Kind Video Presents: Saturday Morning Cartoons At Night!"
-date:   2023-1-16 13:21:08 -0700
+title:  "Be Kind Video Presents: Critters 2 with Mick Garris!"
+date:   2023-3-5 13:21:08 -0700
 categories: jekyll update
 ---
-SATURDAY March 11 at 8PM! 
+SATURDAY March 18 at 8PM! 
 
-Come out to Be Kind Video for Saturday Morning Cartoons At Night!!
+Be Kind Video is hosting a Critters 2 Screening with Director Mick Garris!!
 
-Featuring your favorite Satudray Morning Cartoons from the 80s, and 90s.
+We will be showing the film Critters 2, followed by a Q&A with Director Mick Garris.
 
-All you can eat Cereal! Prizes! Trivia!
+*********RSVPS are at full capacity*********
 
-Tickets - https://www.eventbrite.com/e/saturday-morning-cartoons-at-night-march-tickets-565774646197
+More screenings to come, so stay tuned.
+
 
