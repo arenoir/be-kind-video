@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Be Kind Video Presents: Critters 2 with Mick Garris!"
-date:   2023-3-5 13:21:08 -0700
+title:  "Be Kind Video Presents: VHS Swap Saturday April 15!"
+date:   2023-3-20 13:21:08 -0700
 categories: jekyll update
 ---
-SATURDAY March 18 at 8PM! 
+SATURDAY April 15 12PM-4PM! 
 
-Be Kind Video is hosting a Critters 2 Screening with Director Mick Garris!!
+Be Kind Video is hosting a VHS Tape Swap!!
 
-We will be showing the film Critters 2, followed by a Q&A with Director Mick Garris.
+Come Trade, Sell, Buy VHS at the Video Store!
 
-*********RSVPS are at full capacity*********
+Multiple Vendors, with Tapes, TVs, NES, and more!
 
-More screenings to come, so stay tuned.
+Free Admission!
 
 
