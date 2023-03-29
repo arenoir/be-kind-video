@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Be Kind Video Presents: Staff Picks Comedy!"
+title:  "Staff Picks Comedy!"
 date:   2023-03-09
 categories: events
 ---
