@@ -3,7 +3,7 @@
  title:  "Saturday Morning Cartoons At Night!"
  categories: events
  ---
- SATURDAY March 11 at 8PM!
+ SATURDAY March 11 at 8PM! 
 
  Come out to Be Kind Video for Saturday Morning Cartoons At Night!!
 
