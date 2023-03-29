@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Critters 2 with Mick Garris!"
-categories: jekyll update
+categories: events
 ---
 SATURDAY March 18 at 8PM! 
 
