@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Be Kind Video Presents Dark Side of the Rainbow: Live Figure Drawing!"
+title:  "Dark Side of the Rainbow: Live Figure Drawing!"
 categories: events
 ---
 Thursday, Februrary 23rd at 8PM! 
