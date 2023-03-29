@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Be Kind Video Presents: Staff Picks Comedy!"
-date:   2023-01-16 13:21:08 -0700
+date:   2023-03-09
 categories: events
 ---
 Thursday, March 9th at 7PM! 
