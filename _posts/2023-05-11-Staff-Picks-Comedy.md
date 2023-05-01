@@ -3,7 +3,7 @@ layout: post
 title:  "Staff Picks Comedy 5/11 7PM!"
 categories: events
 ---
-Staff Picsk Comedy on Thursday May 11th at 7PM! 
+Staff Picks Comedy on Thursday May 11th at 7PM! 
 
 Your hosts Chris Calogero and Emily Winter bring Actually Good Comedy!!
 
