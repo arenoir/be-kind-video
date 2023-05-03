@@ -3,8 +3,6 @@ layout: post
 title:  "Retro Night Market Thursday May 18 7PM DTLA"
 categories: events
 ---
-hero_image: assets/images/Screen Shot 2023-04-25 at 4.09.05 PM.jpg
----
 
 Be Kind Video is teaming with Typewriter Connection to bring you Flashback Retro Night Market.
 
