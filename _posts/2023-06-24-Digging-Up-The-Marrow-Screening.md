@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Film Screening: Digging Up the Marrow w/ Filmmaker Q&A Saturday July 24th 8pm"
+title:  "Film Screening: Digging Up the Marrow w/ Filmmaker Q&A Saturday June 24th 8pm"
 categories: events
 ---
 
-Come join us at Be Kind Video in Burbank for a screening of Digging up the Marrow.
+Come join us at Be Kind Video in Burbank for a screening of Digging up the Marrow, Saturday June 24th.
 
 Filmmaker Q&A following the screening.
 
