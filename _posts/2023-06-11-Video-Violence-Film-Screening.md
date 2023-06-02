@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Film Screening: Video Violence Film Screening with Director Intro 6/11"
+title:  "Film Screening: Video Violence Film Screening with Director Intro Sunday 6/11 8PM"
 categories: events
 ---
 
