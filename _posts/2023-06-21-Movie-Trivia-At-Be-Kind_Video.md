@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Movie Trivia at Be Kind Video with host Austin Walker Wednesday 6/7 8PM"
+title:  "Movie Trivia at Be Kind Video with host Austin Walker Wednesday 6/21 8PM"
 categories: events
 ---
 
