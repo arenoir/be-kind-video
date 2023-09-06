@@ -3,7 +3,7 @@ layout: post
 title:  "Staff Picks Comedy 8/3 7PM!"
 categories: events
 ---
-Staff Picks Comedy on Thursday August 3es at 7PM! 
+Staff Picks Comedy on Thursday August 3rd at 7PM! 
 
 Your host Joe Rumrill bring Actually Good Comedy!!
 
