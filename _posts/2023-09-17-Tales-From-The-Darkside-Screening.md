@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Film Screening: "Tales From the Dark Side" Film Screening with Director Q&A Saturday August 8PM"
+title:  "Tales From the Darkside Screening with Director Q&A"
 categories: events
 ---
 
