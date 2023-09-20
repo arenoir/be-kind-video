@@ -3,9 +3,9 @@ layout: post
 title:  "Saturday Morning Cartoons At Night! Saturday 9/30 at 8:30PM"
 categories: events
 ---
-SATURDAY September 30th at 8:30PM! 
-
 Come out to Be Kind Video for Saturday Morning Cartoons At Night!!
+
+SATURDAY September 30th at 8:30PM! 
 
 Featuring your favorite Satudray Morning Cartoons from the 80s, and 90s.
 
