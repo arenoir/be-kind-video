@@ -1,4 +1,4 @@
-  ---
+---
 layout: post
 title:  "Horror Movie Trivia at Be Kind Video with host Marshall Hicks Tuesday 10/17 8PM"
 categories: events
