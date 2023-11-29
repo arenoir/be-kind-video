@@ -12,6 +12,8 @@ Twitter   www.twitter.com/bekindvideo
 
 Email     bekindvideoburbank@gmail.com
 
+Subscribe to our Email List below: 
+
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
   <style type="text/css">
