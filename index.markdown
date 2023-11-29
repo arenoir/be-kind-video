@@ -10,9 +10,9 @@ We are a throwback Video Store, with a modern twist.
 
 Stocking VHS, DVDs, Blu-Rays, and 4K Blu-Ray Movies for Rent, and Sale.
 
-New Releases DVD, Blu-Ray, 4K Blu-Ray - $4 (+tax) for 2 Nights.
+Rental New Releases DVD, Blu-Ray, 4K Blu-Ray - $4 (+tax) for 2 Nights.
 
-Catalog DVD, Blu-Ray, 4K Blu Ray Movies - $3 (+tax) for 5 Nights.
+Rental Catalog DVD, Blu-Ray, 4K Blu Ray Movies - $3 (+tax) for 5 Nights.
 
 Late fees - $1.25/day per Movie.
 
