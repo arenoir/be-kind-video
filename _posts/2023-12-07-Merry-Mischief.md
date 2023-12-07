@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A "Home Alone" inspired figure drawing event in a retro video store! Thurs 12/7"
+title:  "A Home Alone inspired figure drawing event in a retro video store! Thurs 12/7"
 categories: events
 ---
 
