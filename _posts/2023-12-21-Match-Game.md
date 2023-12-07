@@ -14,4 +14,4 @@ Upgrade your trivia night with MATCH GAME LA!
 
 $5 Suggested Donation.
 
-Tickets here - [https://www.eventbrite.com/e/730671075857](https://www.eventbrite.com/e/match-game-la-at-be-kind-video-thursday-1221-at-8pm-tickets-773373941277?aff=oddtdtcreator)https://www.eventbrite.com/e/match-game-la-at-be-kind-video-thursday-1221-at-8pm-tickets-773373941277
+Tickets here - [https://www.eventbrite.com/e/730671075857]
