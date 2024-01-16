@@ -1,3 +1,4 @@
+--
 layout: post
 title:  "Maniac FILM Screening with Director William Lustig Saturday January 13th at 6PM"
 categories: events
