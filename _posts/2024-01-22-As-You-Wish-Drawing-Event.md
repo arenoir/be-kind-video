@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "As You Wish - The Princess Bride Live Figure Drawing Thurs 2/8 8PM"
+title:  "As You Wish - The Princess Bride Live Figure Drawing Thurs Feb 8th 8PM"
 categories: events
 ---
 
