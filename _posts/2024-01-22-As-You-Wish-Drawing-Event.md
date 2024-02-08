@@ -16,4 +16,4 @@ Snacks and beverages available for purchase.
 
 Recommended ages 18+
 
-Tickets - https://www.eventbrite.com/e/valentines-match-game-la-at-be-kind-video-weds-feb-14th-at-8pm-tickets-809504548897
+Tickets - https://www.eventbrite.com/e/as-you-wish-tickets-807261499877
