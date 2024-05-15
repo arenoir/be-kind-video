@@ -20,6 +20,10 @@ Late fees - $1.25/day per Movie.
 
 Specializing in rare, cult, hard to find movies only on home video.
 
+You can browse our Rental Library here: 
+
+https://docs.google.com/spreadsheets/d/1OMJdKHBV9Dyq5cfQi6spm513p9sYavpR0N3A0t6BJGM/
+
 Contact bekindvideoburbank@gmail.com
 
 
