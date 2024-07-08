@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Movie Trivia at Be Kind Video with host Chris Calogero Weds July 25th 8PM"
+title:  "Movie Trivia at Be Kind Video with host Chris Calogero Weds July 24th 8PM"
 categories: events
 ---
 
-Join us Wednesday July 25th for Movie Trivia in a Video Store!
+Join us Wednesday July 24th for Movie Trivia in a Video Store!
 
 Your Host Chris Calogero (New York Times, Funny or Die) will test your knowledge of all things Movies!
 
