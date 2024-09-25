@@ -14,3 +14,5 @@ Refreshments will be provided.
 
 $5 Suggested Donation.
 
+Tickets - https://www.eventbrite.com/e/trivia-from-the-horror-aisle-joe-dante-night-sunday-106-at-be-kind-video-tickets-1022117048607
+
