@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Return to Sleepaway Camp with Director Jim Cummings Sunday January 5th 7PM"
+title:  "Return to Sleepaway Camp with Star Felissa Rose Sunday January 5th 7PM"
 categories: events
 ---
 
