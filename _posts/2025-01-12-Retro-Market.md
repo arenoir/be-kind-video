@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Retro Pop Up Market in the Parking Lot at Be Kind Video Sun 1/26"
+title:  "Retro Pop Up Market in the Parking Lot at Be Kind Video Sun 2/2"
 categories: events
 ---
 
+We are moving the Pop Up Market to Sunday 2/2, due to Rain.
+
 Come on down to the Parking Lot behind Be Kind Video for our Retro Pop Up Market!
 
-Sunday January 26th. 11AM-5PM!
+Sunday February 2nd. 11AM-5PM!
 
 Vendors of all things retro: VHS, Vinyl, Typewriters, Posters, Toys, Clothing, Food, Music, and much more.
 
@@ -18,8 +20,6 @@ Vendors include:
 Typewriter Connection
 
 Matts_Mortuary (VHS)
-
-Run Out Groove Records
 
 Advanced Thrifting
 
