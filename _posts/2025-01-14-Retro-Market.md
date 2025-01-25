@@ -43,10 +43,6 @@ Cute Things with Lindsay (Housewares)
 
 Bootleggins (VHS)
 
-Prolong Vintage (Clothing)
-
-Los Peabos (Clothing, Toys)
-
 and more!!!
 
 More info: https://www.eventbrite.com/e/pop-up-market-sunday-january-26th-in-be-kind-video-parking-lot-tickets-1135178612789?aff=oddtdtcreator
