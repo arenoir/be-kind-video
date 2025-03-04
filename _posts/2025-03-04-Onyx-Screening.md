@@ -17,4 +17,4 @@ At 7 PM we will start the show!
 
 Q&A to follow.
 
-Tix Link: https://www.eventbrite.com/manage/events/1267596397949
+Tix Link: [link] (https://www.eventbrite.com/manage/events/1267596397949)
