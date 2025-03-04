@@ -17,4 +17,4 @@ At 7 PM we will start the show!
 
 Q&A to follow.
 
-[Tickets](https://www.eventbrite.com/manage/events/1267596397949)
+[Tickets](https://www.eventbrite.com/e/onyx-the-fortuitous-and-the-talisman-of-souls-screening-w-andrew-bowser-tickets-1267596397949)
