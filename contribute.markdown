@@ -12,8 +12,10 @@ Tired of all that extra money in your bank account?
 
 We'll take em! 
 
+**We Buy, Trade, and accept Donations of VHS, Laserdiscs, DVDs, Blu-Rays, and 4K Blu Rays!**
+
 Send us an email bekindvideoburbank@gmail.com and let's get you sorted!
 
-Yes, I am even going to list our Venmo, in case you want to make it rain $$$$ directly - @bekindvideo . 
+Yes, I am even going to list our Venmo, in case you want to make it rain directly - @bekindvideo . 
 
 Thank you!!!
