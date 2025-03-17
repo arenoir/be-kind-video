@@ -18,3 +18,5 @@ Late fees - $1.25/day per Movie.
 
 New titles added daily!
 
+**We buy, trade, and accept donations of VHS, DVDs, Laserdiscs, Blu-Rays, and 4K Blu-Rays!**
+
