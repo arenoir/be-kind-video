@@ -33,4 +33,4 @@ Hollywood Book and Poster
 Eddie Anaya Toys
 and more!!!
 
-More info: https://www.eventbrite.com/e/retro-pop-up-market-sunday-april-13th-in-be-kind-video-parking-lot-tickets-1275259739209
+[Tickets] (https://www.eventbrite.com/e/retro-pop-up-market-sunday-april-13th-in-be-kind-video-parking-lot-tickets-1275259739209)
