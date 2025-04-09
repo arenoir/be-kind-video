@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Retro Pop Up Market in the Parking Lot at Be Kind Video Sun 4/13"
+title:  "Retro Pop Up Market at Be Kind Video Sunday 4/13 11AM"
 categories: events
 ---
+
 
 Come on down to the Parking Lot behind Be Kind Video for our Retro Pop Up Market!
 Sunday April 13th. 11AM-5PM!
